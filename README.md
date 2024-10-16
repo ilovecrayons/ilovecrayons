@@ -3,10 +3,10 @@
 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,python,flask,java,mysql,raspberrypi,gcp)](https://skillicons.dev)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilovecrayons&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ilovecrayons&line=ffa500)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilovecrayons&theme=github-compact&line=FFA500)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ilovecrayons&theme=dark)](https://git.io/streak-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecrayons&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecrayons&layout=compact&theme=dark&hide_border=false"/>
 </a>
 
 - 🫃 I have positive earnings (THE SIGMA SOCIETY WAS SCAMMED OF $200!!! #FREESIGMASOCIETY)
