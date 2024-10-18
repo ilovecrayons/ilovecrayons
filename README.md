@@ -4,14 +4,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,python,flask,java,mysql,raspberrypi,gcp)](https://skillicons.dev)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilovecrayons&theme=github-compact&line=FFA500)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ilovecrayons&theme=dark)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ilovecrayons&theme=dark&card_height=90" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ilovecrayons&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecrayons&layout=compact&theme=dark&hide_border=false"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecrayons&layout=compact&theme=dark&hide_border=false&card_width=510"/>
-</a>
 
 - 🤡 One of the worst programmers in the school (bottom 1%)
 - 🐈 Commonly know as Huge O Notation (aka the LWHS furry). I live at H.A.R. Industries HQ, Cleaveland, Ohio.    
