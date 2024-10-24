@@ -9,10 +9,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecrayons&layout=compact&theme=dark&hide_border=false"/>
 </a>
 
-
-- 🤡 One of the worst programmers in the school (bottom 1%)
-- 🐈 Commonly know as Huge O Notation (aka the LWHS furry). I live at H.A.R. Industries HQ, Cleaveland, Ohio.    
-- 🫃 Positive earnings (THE SIGMA SOCIETY WAS SCAMMED OF $200!!! #FREESIGMASOCIETY)
-- 🤓 I dabble in control theory related things idk (im really bad at robotics)
-- ⚡ My Blue Gear: <body align="left"> <a href="https://github.com/firenaruto3"> Jonathan lin</a> is my pookie (ilysm!!!!)</body>
+- 🐈 I identify as a cat.
+- 🤫 Currently on my 420th day meowing streak!1!!1!
+- 😍 <body align="left"> <a href="https://github.com/firenaruto3"> Jonathan lin</a> is my pookie (ilysm!!!!)</body>
 
