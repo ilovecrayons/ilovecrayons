@@ -9,7 +9,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilovecrayons&theme=github-compact&line=FFA500)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🐈 I identify as a cat.
-- 🤫 Currently on my 420th day meowing streak!1!!1!
-- 😍 <body align="left"> <a href="https://github.com/firenaruto3"> Jonathan lin</a> is my pookie (ilysm!!!!)</body>
 
