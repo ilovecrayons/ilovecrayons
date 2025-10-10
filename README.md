@@ -4,7 +4,7 @@
 
 <b align="left"> 
   VRC is ragebait.
-  <a href="https://docs.px4.io/main/en/middleware/uxrce_dds.html" style="color: #cc0000;">Uxrce-DDS</a> with ROS2 isn't. <br> 
+  <a href="https://docs.px4.io/main/en/middleware/uxrce_dds.html" style="color: #cc0000;">uXRCE-DDS</a> with ROS2 isn't. <br> 
 </b>
 <br>
 
