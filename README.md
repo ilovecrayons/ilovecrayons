@@ -1,10 +1,10 @@
-<h1 align="left">Backend developer of  
+<h1 align="left">Prog @ <a href="https://github.com/917x" style="color: #cc0000;">VRC 917x</a> // Backend developer of  
   <a href="https://github.com/TheSigmaSociety" style="color: #cc0000;">TheSigmaSociety</a>
+  
 </h1>
 
 <b align="left"> 
-  VRC is ragebait.
-  <a href="https://docs.px4.io/main/en/middleware/uxrce_dds.html" style="color: #cc0000;">uXRCE-DDS</a> with ROS2 isn't. <br> 
+  I also love wayland compositors <3 <br> 
 </b>
 <br>
 
